@@ -1,5 +1,5 @@
 # Supriyanka Kharade
-### Senior AI Engineer & Manager · Agentic AI · GenAI Systems · AI Operations
+###  AI Engineer Manager · Agentic AI · GenAI Systems · AI Operations
 
 I design, ship, and operate **production-grade AI systems** at enterprise scale. Over 9+ years I've moved from decision science and ML into **LLM, RAG, and multi-agent architectures**, and I now lead cross-functional teams that take these systems from architecture to reliable day-2 operations. I'm currently a Manager, AI at **Accenture Strategy**, and previously led data science and GenAI work at **HSBC Asset Management**.
 
